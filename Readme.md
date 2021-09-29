@@ -1,4 +1,4 @@
-<a href="#"><img width="600px" height="140px" style="object-fit:cover; object-position: center;" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="175px"/></a>
+<a href="#"><img width="100%" height="140px" style="object-fit:cover; object-position: center;" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abbas</h1>
 <h3 align="center" >I am a Front End Web developer from Pakistan, Lahore. I have developed many websites in Wordpress & Shopify.My current goal is to learn programming skills so that I can advance my career.</h3>
